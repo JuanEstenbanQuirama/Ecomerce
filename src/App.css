@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  
+}
+
+
+
+img {
+  height: 200px;
+  object-fit: contain;
+}
+
+.card-home {
+  border-radius: 10px; 
+  box-shadow: 0 0 8px rgb(0 0 0 / 20%);
+}
